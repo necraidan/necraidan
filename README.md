@@ -1,8 +1,9 @@
 ### Hello there 👋
 
-necraidan.com
+[necraidan.com](https://necraidan.com)
+[*****.dev](https://*****.dev)
 
-*****.dev
+
 <!--
 **necraidan/necraidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
