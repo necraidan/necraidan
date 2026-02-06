@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 [necraidan.com](https://necraidan.com)
-[*****.dev](https://*****.dev)
+[616.earth](https://616.earth)
 
 
 <!--
