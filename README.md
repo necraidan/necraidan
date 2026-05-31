@@ -1,7 +1,8 @@
 ### Hello there 👋
 
-[necraidan.com](https://necraidan.com)
-[616.earth](https://616.earth)
+personal [necraidan.com](https://necraidan.com)
+dev      [aratama.com](https://aratama.com)
+cinema   [616.earth](https://616.earth)
 
 
 <!--
